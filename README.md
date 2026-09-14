@@ -17,6 +17,7 @@
 - 🌱 I'm currently learning PyTorch, Godot Engine, and cybersecurity fundamentals
 - 👯 I'm looking to collaborate on software development and machine learning projects
 - 💬 Ask me about **C#, Java, Python, machine learning, game development**
+- 📫 How to reach me: **mogaletshehla4@gmail.com**
 - ⚡ Fun fact: Top 3 finish at the JCI Hackathon
 
 ---
@@ -65,8 +66,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=passsione&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passsione&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=passsione&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passsione&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400" width="45%" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=passsione&theme=dark&hide_border=false" width="70%" />
 
