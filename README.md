@@ -62,6 +62,16 @@
 
 ---
 
+### 🛡️ TryHackMe Progress
+
+<div align="center">
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="./assets/tryhackme-badge.png" alt="TryHackMe Badge" width="400" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
